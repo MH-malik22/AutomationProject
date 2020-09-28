@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42795" started-at="2020-09-27T21:08:14 EDT" finished-at="2020-09-27T21:08:57 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42795" started-at="2020-09-27T21:08:14 EDT" finished-at="2020-09-27T21:08:57 EDT">
+      <class name="com.zoho.landingpage.signupTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.zoho.landingpage.signupTest@22a67b4]" name="launchBrowser" is-config="true" duration-ms="7895" started-at="2020-09-27T21:08:14 EDT" finished-at="2020-09-27T21:08:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="signUpWithvalidemailandInvalidPassword()[pri:1, instance:com.zoho.landingpage.signupTest@22a67b4]" name="signUpWithvalidemailandInvalidPassword" duration-ms="2465" started-at="2020-09-27T21:08:22 EDT" finished-at="2020-09-27T21:08:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpWithvalidemailandInvalidPassword -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.zoho.landingpage.signupTest@22a67b4]" name="quitBrowser" is-config="true" duration-ms="666" started-at="2020-09-27T21:08:24 EDT" finished-at="2020-09-27T21:08:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.zoho.landingpage.signupTest@22a67b4]" name="launchBrowser" is-config="true" duration-ms="6783" started-at="2020-09-27T21:08:25 EDT" finished-at="2020-09-27T21:08:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="signUpWithInvalidEmailAndValidPassword()[pri:2, instance:com.zoho.landingpage.signupTest@22a67b4]" name="signUpWithInvalidEmailAndValidPassword" duration-ms="3046" started-at="2020-09-27T21:08:32 EDT" finished-at="2020-09-27T21:08:35 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpWithInvalidEmailAndValidPassword -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.zoho.landingpage.signupTest@22a67b4]" name="quitBrowser" is-config="true" duration-ms="737" started-at="2020-09-27T21:08:35 EDT" finished-at="2020-09-27T21:08:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.zoho.landingpage.signupTest@22a67b4]" name="launchBrowser" is-config="true" duration-ms="6845" started-at="2020-09-27T21:08:36 EDT" finished-at="2020-09-27T21:08:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="signUpWithInvalidEmailandInvalidPassword()[pri:3, instance:com.zoho.landingpage.signupTest@22a67b4]" name="signUpWithInvalidEmailandInvalidPassword" duration-ms="2571" started-at="2020-09-27T21:08:43 EDT" finished-at="2020-09-27T21:08:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpWithInvalidEmailandInvalidPassword -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.zoho.landingpage.signupTest@22a67b4]" name="quitBrowser" is-config="true" duration-ms="679" started-at="2020-09-27T21:08:45 EDT" finished-at="2020-09-27T21:08:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.zoho.landingpage.signupTest@22a67b4]" name="launchBrowser" is-config="true" duration-ms="7128" started-at="2020-09-27T21:08:46 EDT" finished-at="2020-09-27T21:08:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="signUpWithOutSelectingTermsAndConditionsCheckboc()[pri:4, instance:com.zoho.landingpage.signupTest@22a67b4]" name="signUpWithOutSelectingTermsAndConditionsCheckboc" duration-ms="2850" started-at="2020-09-27T21:08:53 EDT" finished-at="2020-09-27T21:08:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpWithOutSelectingTermsAndConditionsCheckboc -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.zoho.landingpage.signupTest@22a67b4]" name="quitBrowser" is-config="true" duration-ms="1080" started-at="2020-09-27T21:08:56 EDT" finished-at="2020-09-27T21:08:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.zoho.landingpage.signupTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
